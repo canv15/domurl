@@ -1,5 +1,6 @@
 # domurl 2.1 (former jsurl) 
 [![Build Status](https://travis-ci.org/Mikhus/domurl.svg?branch=master)](https://travis-ci.org/Mikhus/domurl) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Mikhus/domurl/master/LICENSE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fdomurl.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fdomurl?ref=badge_shield)
 
 Lightweight URL manipulation with JavaScript for both DOM and server JavaScript.
 
@@ -200,3 +201,6 @@ u.toString();
 ## License
 
 This code is available under MIT license. Feel free to do what you want.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fdomurl.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fdomurl?ref=badge_large)
